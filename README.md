@@ -1,2 +1,2 @@
 # stepik
-education again
+Мой первый репозиторий
